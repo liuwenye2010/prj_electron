@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.tcl": "tcl",
+        "*.itcl": "tcl",
+        "*.cc": "cpp",
+        "*.cpp": "cpp",
+        ".common": "Makefile",
+        ".pkg": "makefile",
+        "Makefile.*": "makefile",
+        "Makefile_*": "makefile",
+        "GNUmakefile*": "makefile",
+        "Kconfig*": "makefile",
+        "cape2.h": "c"
+    }
+}
